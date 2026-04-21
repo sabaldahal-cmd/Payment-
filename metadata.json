@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Mero Paisa",
+  "description": "A high-fidelity digital wallet and financial management system designed for secure, real-time capital management and seamless utility settlements.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
